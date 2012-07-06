@@ -1,0 +1,5 @@
+# fill in mogreet credentials below
+client_id: 100000000
+token: aaaabbbbbccccdddddeeeee
+mms_campaign_id: 99998
+sms_campaign_id: 99999

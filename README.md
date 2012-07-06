@@ -1,2 +1,1 @@
-mogreet-api-starter
-===================
+Mogreet API Starter template for MO callback
