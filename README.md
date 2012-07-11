@@ -1,9 +1,9 @@
 Mogreet API Starter template for MO callback
 ================================
 
-$> git clone git@github.com:pforsyth/mogreet-api-starter.git
-$> cd mogreet-api-starter
-$> bundle install
+$> git clone git@github.com:pforsyth/mogreet-api-starter.git  
+$> cd mogreet-api-starter  
+$> bundle install  
 
 Add your Mogreet credentials to config/mogreet.yml
 
