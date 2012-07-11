@@ -9,8 +9,8 @@ Add your Mogreet credentials to config/mogreet.yml
 
 To use heroku, follow the instructions here to signup: https://devcenter.heroku.com/articles/quickstart
 
-$> heroku create
-$> git push heroku master
+$> heroku create  
+$> git push heroku master  
 
 In the output, it should say where your app has been deployed. Something like:
 
